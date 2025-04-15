@@ -1,0 +1,19 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "esercizio di oggi: node-hello-world\r repo: node-hello-world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaetanoNicotra/node-hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GaetanoNicotra/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/GaetanoNicotra/node-hello-world#readme"
+}
